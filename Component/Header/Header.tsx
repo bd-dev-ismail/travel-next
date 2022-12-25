@@ -17,7 +17,7 @@ const Header = () => {
       <li className='hover:text-[#2095AE]'><Link href='/tour' >Tour</Link></li>
       <li className='hover:text-[#2095AE]'><Link href='/destinations' >Destinations</Link></li>
       <li className='hover:text-[#2095AE]'><Link href='/blog' >Blog</Link></li>
-      <li className='hover:text-[#2095AE]'><Link href='/tour' >Contact</Link></li>
+      <li className='hover:text-[#2095AE]'><Link href='/contact' >Contact</Link></li>
 
       </ul>
 
@@ -31,7 +31,7 @@ const Header = () => {
       <li className='hover:text-[#2095AE]'><Link href='/tour' >Tour</Link></li>
       <li className='hover:text-[#2095AE]'><Link href='/destinations' >Destinations</Link></li>
       <li className='hover:text-[#2095AE]'><Link href='/blog' >Blog</Link></li>
-      <li className='hover:text-[#2095AE]'><Link href='/tour' >Contact</Link></li>
+      <li className='hover:text-[#2095AE]'><Link href='/contact' >Contact</Link></li>
     </ul>
   </div>
 </div>

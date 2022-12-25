@@ -30,7 +30,7 @@ const Footer = () => {
             </footer>
             <footer className="footer px-10 py-4 border-t text-base-content border-base-300">
                 <div className="items-center grid-flow-col">
-                    ©2022 DuruThemes. All rights reserved.
+                    ©2022 Travel-Next. All rights reserved.
                 </div>
                 <div className="md:place-self-center md:justify-self-end">
                     <div className="grid grid-flow-col gap-4">

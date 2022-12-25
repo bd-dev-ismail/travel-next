@@ -6,7 +6,6 @@ import BannerTravel from '../Component/BannerTravel/BannerTravel'
 import About from '../Component/About/About'
 
 
-
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
