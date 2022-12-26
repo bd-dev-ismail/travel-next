@@ -4,6 +4,8 @@ import { Inter } from '@next/font/google'
 import styles from '../styles/Home.module.css'
 import BannerTravel from '../Component/BannerTravel/BannerTravel'
 import About from '../Component/About/About'
+import Blog from '../Component/Blogs/Blog'
+
 
 
 const inter = Inter({ subsets: ['latin'] })
@@ -22,7 +24,7 @@ export default function Home() {
         
        <BannerTravel />
        <About />
-        
+        <Blog />
       </main>
     </>
   )

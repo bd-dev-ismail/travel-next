@@ -3,8 +3,8 @@ import Link from "next/link";
 
 const Footer = () => {
     return (
-        <div className="bg-black">
-            <footer className="footer p-10 bg-black text-base-content ">
+        <div className="">
+            <footer className="footer p-10 text-base-content ">
                 <div>
                     <span className="footer-title">Travel Next</span>
                    <p>Quisque imperdiet sapien porttito the bibendum sellentesque the <br /> commodo erat acar
@@ -12,7 +12,7 @@ const Footer = () => {
                      
                 </div>
                 <div>
-                    <span className="footer-title text-white">Quick Links</span>
+                    <span className="footer-title ">Quick Links</span>
                     <Link href='/about' className="link link-hover">About</Link>
                     <Link href='/tour' className="link link-hover">Tour</Link>
                     <Link href='/destinations' className="link link-hover">Destinations</Link>
